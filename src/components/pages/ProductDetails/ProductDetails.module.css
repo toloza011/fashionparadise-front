@@ -1,0 +1,30 @@
+/* ImageGallery.css */
+
+/* Centrar las flechas verticalmente */
+.image-gallery-left-nav,
+.image-gallery-right-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1; /* Asegúrate de que las flechas estén por encima de otros elementos */
+}
+
+.image-gallery-left-nav {
+  left: 10px; /* Ajusta la distancia desde el borde izquierdo */
+}
+
+.image-gallery-right-nav {
+  right: 10px; /* Ajusta la distancia desde el borde derecho */
+}
+
+/* Opcional: Cambiar el color de las flechas */
+.image-gallery-left-nav:before,
+.image-gallery-right-nav:before {
+  border-color: #ff4081; /* Cambia este color a tu preferencia */
+}
+
+/* Ajustar el tamaño de las flechas */
+.image-gallery-left-nav:before,
+.image-gallery-right-nav:before {
+  border-width: 4px; /* Ajusta el grosor de las flechas */
+}

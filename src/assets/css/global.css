@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.each-slide-effect > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  height: 650px;
+  border-radius: 14px;
+}
+
+.each-slide-effect span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+
+.react-slideshow-container button {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.react-slideshow-container button svg {
+  font-size: 10px;
+  height: 14px;
+  width: 14px;
+}
+
+@media screen and (max-width: 600px) {
+  .each-slide-effect > div {
+    height: 250px;
+  }
+}
+
+@media (max-width: 600px) and (max-width: 900px) {
+  .each-slide-effect > div {
+    height: 250px;
+  }
+}
+
+.product-card {
+  outline: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.product-card:focus {
+  outline: none;
+}
+
+.focusRing___1airF.carousel__slide-focus-ring {
+  outline: none !important;
+}

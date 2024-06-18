@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Producto de prueba 1",
+    "img": "https://img.kwcdn.com/garner-api/transfer/2023-8-27/8fe2c6ad16bdf6e8aa900fa3b346220f.jpg?imageView2/2/w/800/q/70/format/webp",
+    "price": "1990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  },
+  {
+    "id": 2,
+    "name": "Producto de prueba 2",
+    "img": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/3e309afc8baa4aa89a935cc5f7c85460.jpg?imageView2/2/w/800/q/70/format/webp",
+    "price": "4990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  },
+  {
+    "id": 3,
+    "name": "Producto de prueba 1",
+    "img": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/e3048247a540a935fdc2bccaf2f86d53.jpg?imageView2/2/w/800/q/70/format/webp",
+    "price": "1990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  },
+  {
+    "id": 4,
+    "name": "Producto de prueba 1",
+    "img": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/361e77c1aea869c49e785b9caec29ee9.jpg?imageView2/2/w/800/q/70/format/webp",
+    "price": "1990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  },
+  {
+    "id": 5,
+    "name": "Producto de prueba 1",
+    "img": "https://easycl.vtexassets.com/arquivos/ids/699878/1680091573087_1376165-03.jpg",
+    "price": "1990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  },
+  {
+    "id": 6,
+    "name": "Producto de prueba 1",
+    "img": "https://easycl.vtexassets.com/arquivos/ids/699878/1680091573087_1376165-03.jpg",
+    "price": "1990",
+    "description": "Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet Lorem ispum dor amet    "
+  }
+]
